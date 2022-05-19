@@ -122,6 +122,7 @@ C2_T2.7 Mediciones de circuito básico
 
 ![18](https://user-images.githubusercontent.com/105742149/169210865-c97f5279-c6ad-4f2f-a6da-2f26d178fc85.jpeg)
 
+
 ![20](https://user-images.githubusercontent.com/105742149/169210888-0581bb10-7d56-4fbe-a531-94bde492846e.jpeg)
 
 ![22](https://user-images.githubusercontent.com/105742149/169210943-c7278863-e073-452e-90a4-fe9e0db82c4f.jpeg)
@@ -134,17 +135,21 @@ C2_T2.7 Mediciones de circuito básico
 
 ![30](https://user-images.githubusercontent.com/105742149/169211104-20320e97-75e2-4d1e-a811-e69189d3fa16.jpeg)
 
-![32](https://user-images.githubusercontent.com/105742149/169347330-162c44a1-4c49-44f0-b14d-3da07dbe10da.jpeg)
+![32](https://user-images.githubusercontent.com/105742149/169350465-f791f665-e1e6-4158-9435-5475760bedb1.jpeg)
 
-![34](https://user-images.githubusercontent.com/105742149/169347353-d47761a0-f66e-4953-8d82-5793bfeefd40.jpeg)
+![34](https://user-images.githubusercontent.com/105742149/169350489-4c703fcb-fff1-403e-aa02-1b79adc7510f.jpeg)
 
-![36](https://user-images.githubusercontent.com/105742149/169347387-b3f17238-b949-4a2d-b2b1-7efdc2f707e4.jpeg)
+![36](https://user-images.githubusercontent.com/105742149/169350514-c401c6a4-c737-4a7b-8e73-dd5a5f196035.jpeg)
 
-![38](https://user-images.githubusercontent.com/105742149/169347415-30a790ae-3f9a-45a7-844a-aa51caeed323.jpeg)
+![38](https://user-images.githubusercontent.com/105742149/169350546-d869b21d-a4a4-4803-a7c3-a199bcf07505.jpeg)
 
-![44](https://user-images.githubusercontent.com/105742149/169347456-7d4a1c48-a8c7-4653-8bc4-61fc44192d86.jpeg)
+![40](https://user-images.githubusercontent.com/105742149/169351061-21106d0f-bcdb-48e8-ab74-161ec2cf7b55.jpeg)
 
-![46](https://user-images.githubusercontent.com/105742149/169347497-245866ce-7df2-409e-8451-c180457135d6.jpeg)
+![42](https://user-images.githubusercontent.com/105742149/169352611-59fb99a3-7dc9-4f5f-aa3b-639b5866cfb7.jpeg)
+
+![44](https://user-images.githubusercontent.com/105742149/169352680-ec3de5a7-1a5b-4251-8227-136044d5457c.jpeg)
+
+![46](https://user-images.githubusercontent.com/105742149/169352704-0ea91aae-685f-4098-b787-61dc348c83d0.jpeg)
 
 ### **4.	Video**
 
