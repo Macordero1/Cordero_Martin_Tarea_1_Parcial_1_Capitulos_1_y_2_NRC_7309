@@ -3,7 +3,7 @@
 
 **Nombre del Docente:** Ing. Darwin Alulema
 
-**Fecha:** 19/05/2022
+**Fecha de entrega:** 19/05/2022
 
 **NRC:** 7309
 
