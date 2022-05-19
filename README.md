@@ -134,15 +134,17 @@ C2_T2.7 Mediciones de circuito básico
 
 ![30](https://user-images.githubusercontent.com/105742149/169211104-20320e97-75e2-4d1e-a811-e69189d3fa16.jpeg)
 
-![32](https://user-images.githubusercontent.com/105742149/169211122-b6d4d87c-bcaa-4c5e-8a35-c11e3d43554c.jpeg)
+![32](https://user-images.githubusercontent.com/105742149/169347330-162c44a1-4c49-44f0-b14d-3da07dbe10da.jpeg)
 
-![34](https://user-images.githubusercontent.com/105742149/169211153-c47aa81d-860a-44d8-a5f2-e85ab0397ff6.jpeg)
+![34](https://user-images.githubusercontent.com/105742149/169347353-d47761a0-f66e-4953-8d82-5793bfeefd40.jpeg)
 
-![36](https://user-images.githubusercontent.com/105742149/169211174-9ee64484-b1ec-4bc2-a0c0-8fc36de06526.jpeg)
+![36](https://user-images.githubusercontent.com/105742149/169347387-b3f17238-b949-4a2d-b2b1-7efdc2f707e4.jpeg)
 
-![38](https://user-images.githubusercontent.com/105742149/169211199-93ad46fe-378d-4eb9-a2f8-5f756b796ae7.jpeg)
+![38](https://user-images.githubusercontent.com/105742149/169347415-30a790ae-3f9a-45a7-844a-aa51caeed323.jpeg)
 
-![46](https://user-images.githubusercontent.com/105742149/169211234-67f9aa6b-9ca9-49c3-90d9-a97675983670.jpeg)
+![44](https://user-images.githubusercontent.com/105742149/169347456-7d4a1c48-a8c7-4653-8bc4-61fc44192d86.jpeg)
+
+![46](https://user-images.githubusercontent.com/105742149/169347497-245866ce-7df2-409e-8451-c180457135d6.jpeg)
 
 ### **4.	Video**
 
