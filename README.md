@@ -146,6 +146,8 @@ C2_T2.7 Mediciones de circuito básico
 
 ### **4.	Video**
 
+https://youtu.be/n_gLQdkpFFc
+
 ### **5.	Conclusiones**
 
 •	Conocer las unidades de medida de los circuitos es importante debido a que para la parte teórica es adecuado ubicar las medidas de manera correcta.
